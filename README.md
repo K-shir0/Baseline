@@ -1,44 +1,39 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<p align="center">
+<img width="300" src="https://user-images.githubusercontent.com/50326556/127435459-63bca52f-e6a1-4d91-8a0d-81f9ce338cd2.png"/>
+</p>
 
-## Available Scripts
+---
 
-In the project directory, you can run:
+# Baseline
+「Baseline」は学生の就活調査を支援する。教育機関向け、就活情報管理アプリです。
 
-### `yarn start`
+- [ ] 学生と接点のある企業情報や就職情報を一元管理
+- [ ] 情報格差はなく、学生による就活情報の検索が可能
+- [ ] 学生の就活状況をタイムラインにて可視化
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+## バックグラウンド
+就職活動は近年厳しい状況にあります。早期の行動が内定率向上に繋がっていると言うことが事前のリサーチで判明しました。そこで私たちは学内の大きな3つの問題を発見しました。
 
-### `yarn test`
+- 先人の就活情報を後輩に渡せていない
+- 就活の方向性や軸を、早い段階で見つけられていない
+- 就活のベースモデルとなる存在がいない
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Baselineは3つの問題を解決します。
 
-### `yarn build`
+## 仕組み
+- フロントエンド
+    - Typescript
+    - React
+- バックエンド
+    - Laravel
 
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
+また、バックエンドのレポジトリは[こちら](https://github.com/Ryota-nino/baseline-api-server)にあります。
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+---
 
-### `yarn eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+## 貢献者
+- [@Gura-Web](https://github.com/Gura-Web)
+- [@K-shir0](https://github.com/K-shir0)
+- [@Ryota-nino](https://github.com/Ryota-nino)
