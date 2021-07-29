@@ -4,6 +4,8 @@
 
 ---
 
+<img width="1204" alt="スクリーンショット 2021-07-29 13 37 07" src="https://user-images.githubusercontent.com/50326556/127435864-6089c2b2-b72d-4027-85ba-b3b89f8db23b.png">
+
 # Baseline
 「Baseline」は学生の就活調査を支援する。教育機関向け、就活情報管理アプリです。
 
